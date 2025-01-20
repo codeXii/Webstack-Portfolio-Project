@@ -14,6 +14,8 @@ define('DB_USER', 'nelson');    // CHANGE THIS VALUE
 define('DB_PASSWORD', 'nelson');  // CHANGE THIS VALUE
 define('DB_NAME', 'property');
 
+CAN USE LOCAL HOST SERVER LIKE WAMP/XAMPP
+
 
 PROJECT ARCHITECTURE -------
 

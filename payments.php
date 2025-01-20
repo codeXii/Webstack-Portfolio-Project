@@ -3,7 +3,7 @@
 // require './myconfig/database.php';
 require './partials/header.php';
 
-// TENANTS QUERY
+// TENANTS QUERY FROM DATABASE
 $sql = "SELECT * FROM tenants ";
 $sql_query = mysqli_query($connect, $sql);
 
